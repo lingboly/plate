@@ -8,3 +8,5 @@ A simple Shanghai plate program written in python
 5. Enter the website of Shanghai Plate, Run setConfig.py to get the locations of buttons, input windows, auth code rectangle.
 6. Don't move the IE application, run main.py, it will read from the config_file created by setConfig.py.
 7. Press "F2" to try it, see if it can work normally.
+
+Reminder: This project depends on python and some libs, need to install these applications: http://pan.baidu.com/s/1eRvNHhK
